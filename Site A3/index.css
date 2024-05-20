@@ -1,0 +1,82 @@
+body {
+    background-color: #F7F1DE;
+}
+
+nav {
+    background-color: #CFC295;
+    margin-top: -3ch;
+    margin-left: -1ch;
+    margin-right: -1ch;
+    padding-bottom: 1.5ch;
+}
+
+.Arranjodeitens1 {
+    display: flex;
+    content: row;
+    justify-content: space-between;
+    margin-right: 20ch;
+    margin-left: 20ch;
+    font-size: x-large;
+}
+li {
+    margin-top: 2ch;
+}
+.TituloInicio{
+    margin-left: 3ch;
+    font-size: 9ch;
+}
+
+.Descricao {
+    font-size: 4ch;
+    display: inline-block;
+}
+
+.PaginaInicialConteudo{
+    margin-left: 5ch;
+    margin-top: 13ch;
+}
+
+.Alinhamento1 {
+    display: flex;
+    content: row;
+}
+
+.Alinhamento2 {
+    display: flex;
+    content: column;
+}
+
+.ImagemAdvogado {
+    margin-top: 10ch;
+    height: 40ch;
+    width: 50ch;
+    border-radius: 60%;
+    margin-left: 14ch;
+}
+
+.Alinhamento3 {
+    display: flex;
+    flex-direction: column;
+}
+
+.CorDeFundo {
+    background-color: #773322;
+    width: 40%; /* Ocupa toda a largura da página */
+    padding-right: 10ch;
+    height: 78ch
+}
+
+.Nome {
+    color: #FFF;
+    font-size: 6ch;
+    margin-left: 6.5ch;
+
+}
+
+.Profissao {
+    margin-left: 30ch;
+    margin-top: 2ch;
+    font-size: 2ch;
+}
+
+
